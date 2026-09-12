@@ -11,7 +11,7 @@
 
 ---
 
-I mostly work in open source cloud-native tooling, security tooling, and supply-chain projects. [score-spec](https://github.com/score-spec)** (a CNCF project), with merged work in The Honeynet Project's IntelOwl and early contributions to Hermeto.
+I mostly work in open source cloud-native tooling, security tooling, and supply-chain projects. **[score-spec](https://github.com/score-spec)** (a CNCF project), with merged work in The Honeynet Project's IntelOwl and early contributions to Hermeto.
 
 When I'm not sending PRs, I'm building **Saral Board**, an Android app I run solo for Hindi-medium UP Board students.
 
