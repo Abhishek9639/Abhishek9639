@@ -19,7 +19,7 @@ When I'm not sending PRs, I'm building **Saral Board**, an Android app I run sol
 
 | Project | Org | What I've done |
 |---|---|---|
-| [score-spec](https://github.com/score-spec) | CNCF |. Merged PRs across `score-go`, `score-compose`, `score-k8s` and the docs. Still actively contributing. |
+| [score-spec](https://github.com/score-spec) | CNCF | Merged PRs across `score-go`, `score-compose`, `score-k8s` and the docs. Still actively contributing. |
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | The Honeynet Project | 12+ merged PRs, shipped in release v6.6.1 |
 
 ### 🚀 What I'm building
