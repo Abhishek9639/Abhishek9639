@@ -49,8 +49,8 @@ When I'm not sending PRs, I'm building **Saral Board**, an Android app I run sol
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek9639&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9639&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek9639...
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9639...
 </p>
 
 <p align="center">
