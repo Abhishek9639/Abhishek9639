@@ -26,7 +26,9 @@ When I'm not sending PRs, I'm building **Saral Board**, an Android app I run sol
 
 **Saral Board** - Android learning app for Hindi-medium UP Board students. Live on the Play Store. Supabase backend with edge functions, Razorpay payments, a custom admin panel, and an anti-cheat auto-submit for tests. Built and shipped solo.
 
-**Browser Automation Agent** - an AI agent that drives a real browser. Playwright + FastAPI + React + PostgreSQL, with a vision-capable LLM doing the deciding.
+**[Dost](https://github.com/Abhishek9639/Call-Me)** - an AI phone companion that calls elderly parents every day in Hindi or Hinglish, remembers earlier calls, and sends the family a wellbeing summary. This repo is the marketing site and lead-capture flow: Next.js 16, React 19, Tailwind v4, TypeScript. Live at [trydost.vercel.app](https://trydost.vercel.app)
+
+**[Web Font Optimizer](https://github.com/Abhishek9639/OJT_PROJECT3)** - a browser-only tool that subsets and previews web fonts so pages load lighter. Plain HTML, CSS and JavaScript, no backend, no install.
 
 ### 🛠️ Tech I work with
 
