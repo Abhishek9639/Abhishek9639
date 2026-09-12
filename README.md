@@ -21,8 +21,6 @@ When I'm not sending PRs, I'm building **Saral Board**, an Android app I run sol
 |---|---|---|
 | [score-spec](https://github.com/score-spec) | CNCF | #2 contributor. Merged PRs across `score-go`, `score-compose`, `score-k8s` and the docs. Still actively contributing. |
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | The Honeynet Project | 12+ merged PRs, shipped in release v6.6.1 |
-| [GUAC](https://github.com/guacsec/guac) | guacsec | Work on the VEX Hub certifier |
-| [Hermeto](https://github.com/hermetoproject/hermeto) | Hermeto Project | Dependency prefetch CLI for hermetic builds just getting started here |
 
 ### 🚀 What I'm building
 
