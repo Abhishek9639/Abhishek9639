@@ -24,7 +24,7 @@ When I'm not sending PRs, I'm building **Saral Board**, an Android app I run sol
 
 ### 🚀 What I'm building
 
-**Saral Board** - Android learning app for Hindi-medium UP Board students. Live on the Play Store. Supabase backend with edge functions, Razorpay payments, a custom admin panel, and an anti-cheat auto-submit for tests. Built and shipped solo.
+**[Saral Board](https://github.com/Abhishek9639/SARAL)** - Android learning app for Hindi-medium UP Board students. Live on the Play Store. Supabase backend with edge functions, Razorpay payments, a custom admin panel, and an anti-cheat auto-submit for tests. Built and shipped solo.
 
 **[Dost](https://github.com/Abhishek9639/Call-Me)** - an AI phone companion that calls elderly parents every day in Hindi or Hinglish, remembers earlier calls, and sends the family a wellbeing summary. This repo is the marketing site and lead-capture flow: Next.js 16, React 19, Tailwind v4, TypeScript. Live at [trydost.vercel.app](https://trydost.vercel.app)
 
